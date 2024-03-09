@@ -56,15 +56,79 @@
 		FABCD91C2B9CC4F800681862 /* Climate */ = {
 			isa = PBXGroup;
 			children = (
+				FABCD9342B9CCC9B00681862 /* Models */,
+				FABCD9312B9CC88D00681862 /* Views */,
+				FABCD9322B9CC89200681862 /* ViewModel */,
+				FABCD9382B9CCCC500681862 /* Extensions */,
+				FABCD9372B9CCCBE00681862 /* Networking */,
+				FABCD9362B9CCCB400681862 /* Configuration */,
+				FABCD9352B9CCCAE00681862 /* Utils */,
+				FABCD9332B9CC89900681862 /* Controller */,
 				FABCD91D2B9CC4F800681862 /* AppDelegate.swift */,
 				FABCD91F2B9CC4F800681862 /* SceneDelegate.swift */,
 				FABCD9212B9CC4F800681862 /* ViewController.swift */,
-				FABCD9232B9CC4F800681862 /* Main.storyboard */,
 				FABCD9262B9CC4F900681862 /* Assets.xcassets */,
-				FABCD9282B9CC4F900681862 /* LaunchScreen.storyboard */,
 				FABCD92B2B9CC4F900681862 /* Info.plist */,
 			);
 			path = Climate;
+			sourceTree = "<group>";
+		};
+		FABCD9312B9CC88D00681862 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FABCD9232B9CC4F800681862 /* Main.storyboard */,
+				FABCD9282B9CC4F900681862 /* LaunchScreen.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FABCD9322B9CC89200681862 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		FABCD9332B9CC89900681862 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FABCD9342B9CCC9B00681862 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FABCD9352B9CCCAE00681862 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		FABCD9362B9CCCB400681862 /* Configuration */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Configuration;
+			sourceTree = "<group>";
+		};
+		FABCD9372B9CCCBE00681862 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		FABCD9382B9CCCC500681862 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
