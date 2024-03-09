@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>APP_ID</key>
+	<string>d80a081b65126ccf0204507b88de2c22</string>
+	<key>BASE_URL</key>
+	<string>https://api.openweathermap.org/data/2.5/weather</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
